@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "todo": "learning",
+        "status": "completed"
+    },
+    {
+        "id": 2,
+        "todo": "do something",
+        "status": "pending"
+    }
+]
