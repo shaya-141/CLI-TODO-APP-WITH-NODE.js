@@ -22,5 +22,23 @@ A simple **Command Line Interface (CLI) Task Manager** built with **Node.js** an
    ```bash
    node index.js <command> <value>
 
+## 🔧 Commands
+
+| Command  | Description             | Example                              |
+|----------|-------------------------|--------------------------------------|
+| `add`    | Add a new task          | `node index.js add "Buy groceries"`  |
+| `list`   | Show all tasks          | `node index.js list`                 |
+| `done`   | Mark task as completed  | `node index.js done 1`               |
+| `remove` | Delete a task           | `node index.js remove 1`             |
+| `help`   | Show all command        | `node index.js help`                 |
+
+## 📂 File Structure
+
+```bash
+📦 node-task-manager
+ ┣ 📜 index.js       # Main CLI logic
+ ┣ 📜 package.json   # Project dependencies
+ ┣ 📜 task.json      # Task storage file
+ ┗ 📜 README.md      # Project documentation
 
 
