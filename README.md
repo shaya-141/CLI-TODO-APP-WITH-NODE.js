@@ -1,4 +1,4 @@
-# 📝 Node.js Task Manager CLI
+# 📝 Node.js Task 
 
 A simple **Command Line Interface (CLI) Task Manager** built with **Node.js** and **File System (fs)** module. This application allows you to **add, list, remove, and mark tasks as done** using command-line commands.
 
